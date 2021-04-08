@@ -1,0 +1,37 @@
+[
+  {
+    "username":"aniket",
+    "password": "123456",
+    "adderss": "B-1 sector 24",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "username":"ankit",
+    "password": "123456",
+    "adderss": "B-1 sector 24",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "username":"tushar",
+    "password": "123456",
+    "adderss": "B-1 sector 24",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "username":"kunal",
+    "password": "123456",
+    "adderss": "B-1 sector 24",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "username":"priya",
+    "password": "123456",
+    "adderss": "B-1 sector 24",
+    "city": "Pune",
+    "state": "Maharashtra"
+  }
+]

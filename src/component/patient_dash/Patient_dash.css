@@ -1,0 +1,12 @@
+#right_side{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+#line_username{
+    border: 1px solid black;
+}
+#left_side{
+    padding: 3em;
+    margin-top: 2em
+}
