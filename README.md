@@ -1,6 +1,13 @@
 ## Live At
 https://youthful-bose-5d73d1.netlify.app/
 
+## Dummy staff id to check task:
+	- username: vinay , password:qwerty
+
+## Dummy Patient id to check task:
+	- username: aniket, password:123456
+
+
 ## Available Scripts
 
 In the project directory, you can run:
